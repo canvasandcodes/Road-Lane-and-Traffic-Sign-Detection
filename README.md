@@ -36,7 +36,8 @@ This notebook demonstrates both visual detection and classification in real-time
 Detection of lanes is showcased on an input image, and the results are shown on the output image below.
 
 ### ▶️ Input Image:
-![Input](Lane Detection Input Image.png)
+![Lane Detection Input Image](https://github.com/user-attachments/assets/a0d3330d-53b3-4ab4-ab8e-3ff87195906e)
+
 
 ### ✅ Output Image:
 ![Output](Lane Detection Output Image.png)
