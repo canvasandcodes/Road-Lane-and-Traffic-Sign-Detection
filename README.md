@@ -31,5 +31,21 @@ This notebook demonstrates both visual detection and classification in real-time
    ```bash
    pip install opencv-python numpy tensorflow
 
+   ## 📷 Demo
+
+Detection of lanes is showcased on an input image, and the results are shown on the output image below.
+
+### ▶️ Input Image:
+![Input](Lane Detection Input Image.png)
+
+### ✅ Output Image:
+![Output](Lane Detection Output Image.png)
+
+Detection of lanes is showcased on an input image, and the results are shown on the output image below.
+
+### ✅ Output Image detecting Traffic Signs:
+![Output](Traffic Signs Input Image.png)
+
+## The project includes a **Gradio Interface**, allowing users to upload images and instantly view lane and traffic sign detection results.
 ## Author:
 Namita S
