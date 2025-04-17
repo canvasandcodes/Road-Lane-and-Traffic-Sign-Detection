@@ -40,12 +40,17 @@ Detection of lanes is showcased on an input image, and the results are shown on 
 
 
 ### ✅ Output Image:
-![Output](Lane Detection Output Image.png)
+![Lane Detection Output Image](https://github.com/user-attachments/assets/97a39aba-7f7b-4e24-abe2-da6766dedc32)
+
 
 Detection of lanes is showcased on an input image, and the results are shown on the output image below.
 
+### ▶️ Input Image detecting Traffic Signs:
+![Traffic Signs Input Image](https://github.com/user-attachments/assets/37cafa74-5e93-4c03-a56d-3665610a6a65)
+
 ### ✅ Output Image detecting Traffic Signs:
-![Output](Traffic Signs Input Image.png)
+![Traffic Signs Output Image](https://github.com/user-attachments/assets/609b7a0b-0322-470c-bb8e-5978fe97f17f)
+
 
 ## The project includes a **Gradio Interface**, allowing users to upload images and instantly view lane and traffic sign detection results.
 ## Author:
